@@ -29,7 +29,7 @@ bio: Gabriel Appau Abeyie is a Ph.D. candidate in economics who specializes in u
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Macroeconomics
   - Computational Linguistics
   - Information Retrieval
 
