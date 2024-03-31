@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Economics
+    - course: PhD Economics
       institution: University of Tennessee, Knoxville
       year: 2025
     - course: Ms Economics
