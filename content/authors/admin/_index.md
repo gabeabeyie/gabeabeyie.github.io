@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+#title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Gabriel Abeyie
 
 # Full name (for SEO)
 first_name: Gabriel
@@ -31,7 +31,8 @@ bio: Gabriel Appau Abeyie is a Ph.D. candidate in economics who specializes in u
 interests:
   - Macroeconomics
   - Time Series Forecasting
-  - Information Retrieval
+  - Machine Learning
+  - International Finance
 
 # Education to show in About widget
 education:
