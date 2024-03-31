@@ -1,9 +1,9 @@
 ---
 # Display name
-#title: 吳健雄
+title: Gabriel Abeyie
 
 # Name pronunciation (optional)
-name_pronunciation: Gabriel Abeyie
+#name_pronunciation: Gabriel Abeyie
 
 # Full name (for SEO)
 first_name: Gabriel
