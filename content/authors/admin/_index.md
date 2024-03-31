@@ -41,10 +41,10 @@ education:
       institution: University of Tennessee, Knoxville
       year: 2025
     - course: Ms Economics
-      institution: University of North Texas
+      institution: University of North Texas, Denton
       year: 2020
     - course: BA Economics and Statistics
-      institution: University of Ghana
+      institution: University of Ghana, Accra
       year: 2017
 
 # Skills
