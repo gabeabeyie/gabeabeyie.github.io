@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gabriel
+last_name: Abeyie
 
 # Status emoji
 status:
@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Tennessee, Knoxville
+    url: https://haslam.utk.edu/economics/graduate-students/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Gabriel Appau Abeyie is a Ph.D. candidate in economics who specializes in using text data to forecast and analyze macroeconomic variables through advanced machine learning and natural language processing techniques. He also explores various macroeconomic methods for policy analysis and forecasting purposes. Beyond his research endeavors, Gabriel has taught courses in statistics, macroeconomics and applied econometrics. He holds a bachelor’s degree in economics and statistics from the University of Ghana and a master’s degree in economics and decision science from the University of North Texas. In his free time, Gabriel enjoys watching sports, specifically soccer and basketball. He also enjoys playing ping-pong and cherishing moments with family and friends.
 
 # Interests to show in About widget
 interests:
@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: University of Tennessee, Knoxville
+      year: 2025
+    - course: Ms Economics
+      institution: University of North Texas
+      year: 2020
+    - course: BA Economics and Statistics
+      institution: University of Ghana
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
