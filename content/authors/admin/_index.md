@@ -25,8 +25,7 @@ organizations:
     url: https://haslam.utk.edu/economics/graduate-students/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
- - Biography: Gabriel Appau Abeyie is a Ph.D. candidate in economics who specializes in using text data to forecast and analyze macroeconomic variables through advanced machine learning and natural language processing techniques. He also explores various macroeconomic methods for policy analysis and forecasting purposes. Beyond his research endeavors, Gabriel has taught courses in statistics, macroeconomics and applied econometrics. He holds a bachelor’s degree in economics and statistics from the University of Ghana and a master’s degree in economics and decision science from the University of North Texas. In his free time, Gabriel enjoys watching sports, specifically soccer and basketball. He also enjoys playing ping-pong and cherishing moments with his family and friends.
+bio: Gabriel Appau Abeyie is a Ph.D. candidate in economics who specializes in using text data to forecast and analyze macroeconomic variables through advanced machine learning and natural language processing techniques. He also explores various macroeconomic methods for policy analysis and forecasting purposes. Beyond his research endeavors, Gabriel has taught courses in statistics, macroeconomics and applied econometrics. He holds a bachelor’s degree in economics and statistics from the University of Ghana and a master’s degree in economics and decision science from the University of North Texas. In his free time, Gabriel enjoys watching sports, specifically soccer and basketball. He also enjoys playing ping-pong and cherishing moments with his family and friends.
 
 # Interests to show in About widget
 interests:
@@ -121,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gabriel Appau Abeyie is a Ph.D. candidate in economics who specializes in using text data to forecast and analyze macroeconomic variables through advanced machine learning and natural language processing techniques. He also explores various macroeconomic methods for policy analysis and forecasting purposes. Beyond his research endeavors, Gabriel has taught courses in statistics, macroeconomics and applied econometrics. He holds a bachelor’s degree in economics and statistics from the University of Ghana and a master’s degree in economics and decision science from the University of North Texas. In his free time, Gabriel enjoys watching sports, specifically soccer and basketball. He also enjoys playing ping-pong and cherishing moments with his family and friends.
 {style="text-align: justify;"}
