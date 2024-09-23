@@ -121,5 +121,7 @@ social:
 highlight_name: true
 ---
 
-Welcome! Welcome! I am a Ph.D. candidate in economics at the Haslam College of Business, University of Tennessee, Knoxville. to forecast and analyze macroeconomic variables through advanced machine learning and natural language processing techniques. He also explores various macroeconomic methods for policy analysis and forecasting purposes. Beyond his research endeavors, Gabriel has taught courses in statistics, macroeconomics and applied econometrics. He holds a bachelor’s degree in economics and statistics from the University of Ghana and a master’s degree in economics and decision science from the University of North Texas. In his free time, Gabriel enjoys watching sports, specifically soccer and basketball. He also enjoys playing ping-pong and cherishing moments with his family and friends.
+Welcome! I am a Ph.D. candidate in economics at the University of Tennessee, Knoxville.\\
+
+My research focuses on applying machine learning methods to answer macroeconomic questions, with a particular emphasis on oil markets and the role of OPEC announcements in shaping oil price dynamics.
 {style="text-align: justify;"}
