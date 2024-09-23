@@ -35,12 +35,12 @@ featured: false
 #   url: ""
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822767
 url_code: 'https://github.com/gabeabeyie/Collocation_Attention'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
