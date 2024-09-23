@@ -22,7 +22,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
-    - name: Job Market Paper
+  - name: Job Market Paper
     url: 'content/publication/journal-article/jmp/'
     weight: 20
 
