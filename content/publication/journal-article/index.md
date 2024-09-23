@@ -24,7 +24,7 @@ publication_short: ""
 abstract: This paper proposes a method for improving text-based forecasting models, specifically focusing on forecasting crude oil prices. Utilizing advanced techniques, including pattern validation and attention mechanisms, the study demonstrates notable improvements in predictive power over traditional approaches. One key finding is that considering the full text of news articles, rather than limiting the analysis to news headlines, leads to significant gains in forecasting accuracy. Furthermore, the model featuring verb-noun and noun-verb collocation pattern validation consistently outperforms benchmarks and models based solely on news headlines across various forecasting horizons. The results suggest that the presence of such collocations as 'price fell,' 'prices tumbled,' and 'price dropped' in crude-oil-related news articles is associated with a decrease in oil price returns. Additionally, a novel experiment was conducted to test the uniqueness of the text data, operating under the hypothesis that if the text data is uninformative and not unique to crude oil prices, it should not perform differently from any synthetically generated text. Using language model-generated synthetic news data on crude oil, a similar forecasting exercise was conducted. Despite the synthetic data undergoing the same forecasting procedure, it yielded poor results, indicating the authentic text's ability to capture market dynamics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822767
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/gabeabeyie/Collocation_Attention'
 url_dataset: ''
 url_poster: ''
 url_project: ''
