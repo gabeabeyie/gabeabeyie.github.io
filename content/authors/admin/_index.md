@@ -123,7 +123,7 @@ highlight_name: true
 
 Welcome! I am a Ph.D. candidate in economics at the University of Tennessee, Knoxville.
 
-My research focuses on applying machine learning methods to answer macroeconomic questions, with a particular emphasis on oil markets and the role of OPEC announcements in shaping oil price dynamics.
+My research focuses on applying machine learning methods to answer a range of macroeconomic questions. I explore how data-driven insights, such as text analysis and machine learning techniques, can enhance our understanding of economic dynamics and market behavior.
 
 In my job market paper, I analyze how OPEC announcements influence oil price changes by combining oil futures data with textual data from news articles. Using text-based features, I capture market expectations and reactions, allowing for a better understanding of the unanticipated changes in oil prices. 
 
