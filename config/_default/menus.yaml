@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 70
   - name: Job Market Paper
-    url: 'content/publication/journal-article/jmp/'
+    url: '#publication'
     weight: 20
 
 # Link to a PDF of your resume/CV from the menu.
