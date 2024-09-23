@@ -2,7 +2,7 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Gabriel Abeyie
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
