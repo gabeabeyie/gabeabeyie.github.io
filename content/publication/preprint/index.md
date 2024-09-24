@@ -2,7 +2,7 @@
 title: "Identifying Oil Supply News Shocks: The Impact of OPEC Announcements Using Textual Data"
 authors:
 #- admin
--Abeyie
+- Abeyie
 date: "2024-09-07T00:00:00Z"
 doi: ""
 
